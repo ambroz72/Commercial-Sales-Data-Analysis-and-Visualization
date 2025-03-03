@@ -12,7 +12,7 @@ Project Components
 
 
 # 1. Python Data Analysis (Jupyter Notebook)
-![screenshot](CASR9.png)
+![screenshot](CSAR9.png)
 📌 File: Commercial_sales_analysis.ipynb
 
 # Loaded and cleaned sales data
