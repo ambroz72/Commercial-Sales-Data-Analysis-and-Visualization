@@ -33,7 +33,7 @@ The Power BI Dashboard is an interactive sales report designed for business inte
 # Visualizations and Analysis
 Sales by Order Date (Line Chart)
 
-# Displays yearly sales trends from 2018 to 2021
+# Displays yearly sales trends 
 Shows an increasing trend in sales, peaking in 2021
 Sales by Sub-Category (Bar Chart)
 
@@ -74,7 +74,7 @@ Sum of Sales by Order Date (Time Series Chart)
 Significant spikes in sales are observed during peak periods
 KPI Cards (Total Sales, Profit, Discount, Total Quantity)
 
-# Displays Total Sales (2.30M), Profit (286.40K), Discount (1.56K), and Quantity (38K)
+# Displays Total Sales 
 Helps in quick decision-making by highlighting key business metrics
 Sum of Profit by Region (Line Chart)
 
@@ -96,7 +96,8 @@ Sum of Sales by Region (Pie Chart)
 
 # Breaks down sales distribution by region
 The West and East regions account for the majority of sales
-📌 Key Insights from Tableau:
+
+# 📌 Key Insights from Tableau:
 ✔️ Sales are highest in the West and East regions
 ✔️ Profitability decreases from West to Central
 ✔️ High discounts do not always lead to higher sales
@@ -110,12 +111,13 @@ The West and East regions account for the majority of sales
 🔹 Regional and product-wise insights help optimize sales strategy
 
 # Files Included in the Repository
-📂 Commercial_sales_analysis.ipynb – Jupyter Notebook with Python analysis
-📂 CSAR7.png – Power BI Dashboard Screenshot
-📂 CSAR8.png – Tableau Dashboard Screenshot
+📂 Jupyter Notebook with Python analysis
+📂 Power BI Dashboard & Screenshot
+📂 Tableau Dashboard & Screenshot
 
 # How to Use This Repository
 Explore the Jupyter Notebook to see the Python data analysis
 Review the Power BI and Tableau Dashboards for interactive insights
 Use the dataset to explore further trends and insights
+
 # Python | Google Colab | PowerBi | Tableau | Excel | Data Analysis | Data Visualisation 
