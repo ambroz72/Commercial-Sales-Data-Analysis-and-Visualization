@@ -110,6 +110,8 @@ The West and East regions account for the majority of sales
 🔹 The Consumer segment is the most profitable market segment
 🔹 Regional and product-wise insights help optimize sales strategy
 
+![screenshot](Dashboard.png)
+
 # Files Included in the Repository
 📂 Jupyter Notebook with Python analysis
 📂 Power BI Dashboard & Screenshot
